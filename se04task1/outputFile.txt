@@ -1,0 +1,11 @@
+Word "new" was used in file C:\Users\Livon\Desktop\JavaHomework4\se04task1\src\Parser.java 11 times.
+Word "private" was used in file C:\Users\Livon\Desktop\JavaHomework4\se04task1\src\Parser.java 1 times.
+Word "static" was used in file C:\Users\Livon\Desktop\JavaHomework4\se04task1\src\Parser.java 1 times.
+Word "void" was used in file C:\Users\Livon\Desktop\JavaHomework4\se04task1\src\Parser.java 1 times.
+Word "import" was used in file C:\Users\Livon\Desktop\JavaHomework4\se04task1\src\Parser.java 3 times.
+Word "public" was used in file C:\Users\Livon\Desktop\JavaHomework4\se04task1\src\Parser.java 1 times.
+Word "for" was used in file C:\Users\Livon\Desktop\JavaHomework4\se04task1\src\Parser.java 4 times.
+Word "try" was used in file C:\Users\Livon\Desktop\JavaHomework4\se04task1\src\Parser.java 1 times.
+Word "catch" was used in file C:\Users\Livon\Desktop\JavaHomework4\se04task1\src\Parser.java 2 times.
+Word "class" was used in file C:\Users\Livon\Desktop\JavaHomework4\se04task1\src\Parser.java 1 times.
+Word "int" was used in file C:\Users\Livon\Desktop\JavaHomework4\se04task1\src\Parser.java 2 times.
